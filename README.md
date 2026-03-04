@@ -11,7 +11,6 @@ This repository is a professional migration of my original undergraduate work. A
 * **Systems Installation:** Πλήρης εγκατάσταση και παραμετροποίηση λειτουργικών συστημάτων (**Arch Linux**, **Alpine Linux**) σε Virtual Machines (VMware).
 * **Software Configuration:** Εγκατάσταση και επίλυση προβλημάτων εξαρτήσεων (dependencies) για CLI εργαλεία και legacy περιβάλλοντα (**Python 2.7**).
 * **Web & Automation Tools:** Χρήση και ρύθμιση static site generators (**bashblog**) και εργαλείων καταγραφής τερματικού (**Asciinema**).
-* **CLI Tools:** Εμπειρία στη χρήση εργαλείων γραμμής εντολών για diagnostics, media downloading και RSS aggregation.
 
 ### 📂 Περιεχόμενα
 Αναλυτικές λεπτομέρειες για κάθε εγκατάσταση, τα προβλήματα που επιλύθηκαν (debugging) και links προς τα live demos, θα βρείτε στο παρακάτω αρχείο:
